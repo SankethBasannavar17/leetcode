@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SankethBasannavar17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SankethBasannavar17/leetcode/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/SankethBasannavar17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SankethBasannavar17/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SankethBasannavar17/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SankethBasannavar17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SankethBasannavar17/leetcode/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/SankethBasannavar17/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SankethBasannavar17/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SankethBasannavar17/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SankethBasannavar17/leetcode/tree/master/0013-roman-to-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SankethBasannavar17/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SankethBasannavar17/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SankethBasannavar17/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
